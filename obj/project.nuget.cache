@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mxZGfeHTLacIowq/XEN8SovVU6quICwQ383i5FH8faQRkff+FzbBlUTq4ApcKHQ0ErIj+ssZpUUQwhDJ3/2emw==",
+  "dgSpecHash": "ytwSzoTVFX6s2n8jTzMddCujMOliDA68FrPu6Ynu2CasFaRNNjipjH3HZO6IWLCdGZRPQnLk1/Q/Q0LG9tPHRg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Etienne\\Desktop\\TACFDEV31 - Qualité logicielle dans les développements objets\\projets-tp\\csharp\\banque-csharp\\banque-csharp.csproj",
   "expectedPackageFiles": [
@@ -19,6 +19,7 @@
     "C:\\Users\\Etienne\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
     "C:\\Users\\Etienne\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
     "C:\\Users\\Etienne\\.nuget\\packages\\nunit3testadapter\\3.17.0\\nunit3testadapter.3.17.0.nupkg.sha512",
+    "C:\\Users\\Etienne\\.nuget\\packages\\opencover\\4.7.922\\opencover.4.7.922.nupkg.sha512",
     "C:\\Users\\Etienne\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\Etienne\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512",
     "C:\\Users\\Etienne\\.nuget\\packages\\system.appcontext\\4.1.0\\system.appcontext.4.1.0.nupkg.sha512",

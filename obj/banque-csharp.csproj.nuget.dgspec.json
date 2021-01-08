@@ -48,6 +48,10 @@
               "target": "Package",
               "version": "[3.17.0, )"
             },
+            "OpenCover": {
+              "target": "Package",
+              "version": "[4.7.922, )"
+            },
             "Selenium.WebDriver": {
               "target": "Package",
               "version": "[3.141.0, )"
@@ -68,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\3.1.404\\RuntimeIdentifierGraph.json"
         }
       }
     }
